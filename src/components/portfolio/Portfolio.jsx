@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 
 import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG6 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 
 
@@ -16,10 +16,10 @@ const data = [
   },
   {
     id: 2,
-    image: IMG3,
-    title: 'Survey app "Coming soon"',
-    github: 'https://github.com/JRobuschi?tab=repositories',
-    demo: 'https://portfolio-jrobuschi.vercel.app/'
+    image: IMG6,
+    title: 'Hospital App',
+    github: 'https://github.com/JRobuschi/hospitalApp',
+    demo: 'https://euphonious-pothos-4520ad.netlify.app/'
   },
   {
     id: 3,
